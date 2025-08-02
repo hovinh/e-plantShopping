@@ -1,5 +1,10 @@
 # coding-project-template
 
+Run
+```
+npm install
+npm run preview
+```
 
 Deploy using Github Pages
 ```bash
